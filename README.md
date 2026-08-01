@@ -6,12 +6,6 @@ Aplicacion de escritorio en Java (Swing) para registro, inicio de sesion y admin
 
 - Java JDK 8 o superior
 
-## Configuracion del editor
-
-Los archivos deben guardarse como **UTF-8 sin BOM**. En Cursor/VS Code ya esta configurado en `.vscode/settings.json`.
-
-Si usas otro editor, evita "UTF-8 with BOM" para no obtener el error `illegal character: '\ufeff'`.
-
 ## Compilar y ejecutar
 
 ```bash
